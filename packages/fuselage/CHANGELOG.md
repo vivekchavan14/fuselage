@@ -1,5 +1,37 @@
 # Change Log
 
+## 0.52.0
+
+### Minor Changes
+
+- [#1331](https://github.com/RocketChat/fuselage/pull/1331) [`bd17e9c59`](https://github.com/RocketChat/fuselage/commit/bd17e9c59696f26bf59f7f389f08f3185a780c65) Thanks [@dougfabris](https://github.com/dougfabris)! - feat(fuselage): MessageReactions focus state
+
+### Patch Changes
+
+- [#1335](https://github.com/RocketChat/fuselage/pull/1335) [`cef61fd9f`](https://github.com/RocketChat/fuselage/commit/cef61fd9f0e2139f54036809b11782de09b9d025) Thanks [@juliajforesti](https://github.com/juliajforesti)! - fix(fuselage): show `AutoComplete` placeholder
+
+## 0.51.3
+
+### Patch Changes
+
+- [#1327](https://github.com/RocketChat/fuselage/pull/1327) [`350eaa1ac`](https://github.com/RocketChat/fuselage/commit/350eaa1ac73a4dc66f1b6787df475c52389f96b6) Thanks [@csuadev](https://github.com/csuadev)! - fix(fuselage): Add missing renderItem property on PaginatedSelect component to allow options customization.
+
+- [#1328](https://github.com/RocketChat/fuselage/pull/1328) [`6eecf95fb`](https://github.com/RocketChat/fuselage/commit/6eecf95fb1f7e77032de801033134eaed3e4501f) Thanks [@juliajforesti](https://github.com/juliajforesti)! - fix(fuselage): add missing `Bubble` gap
+
+## 0.51.2
+
+### Patch Changes
+
+- [#1322](https://github.com/RocketChat/fuselage/pull/1322) [`f67ac5dc0`](https://github.com/RocketChat/fuselage/commit/f67ac5dc0a02ce47468a640d08e8ba373eca3d51) Thanks [@csuadev](https://github.com/csuadev)! - fix(fuselage): Added missing render property from PaginatedMultiselect on PaginatedMultiSelectFiltered component to allow rendering items on it.
+
+## 0.51.1
+
+### Patch Changes
+
+- [#1324](https://github.com/RocketChat/fuselage/pull/1324) [`8f4502968`](https://github.com/RocketChat/fuselage/commit/8f450296822ee8a087831683828f513c2156b279) Thanks [@dougfabris](https://github.com/dougfabris)! - fix(fuselage): Avoid duplicated alert on ToastBar
+
+- [#1323](https://github.com/RocketChat/fuselage/pull/1323) [`9ccc4e79f`](https://github.com/RocketChat/fuselage/commit/9ccc4e79f76c1ef2b182065883bd66a91860bc96) Thanks [@dougfabris](https://github.com/dougfabris)! - feat(icons): New circle-unfilled
+
 ## 0.51.0
 
 ### Minor Changes

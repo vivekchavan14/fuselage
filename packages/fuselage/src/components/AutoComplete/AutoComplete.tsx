@@ -152,7 +152,7 @@ export function AutoComplete({
             onFocus={show}
             onKeyDown={handleKeyDown}
             placeholder={
-              optionsAreVisible !== AnimatedVisibility.HIDDEN || !value
+              optionsAreVisible === AnimatedVisibility.HIDDEN || !value
                 ? placeholder
                 : undefined
             }
@@ -191,6 +191,7 @@ export function AutoComplete({
                 : 'magnifier'
             }
             size='x20'
+            color='default'
           />
         }
       />
